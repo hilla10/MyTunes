@@ -4,6 +4,6 @@
 
 You Can Download The file
 ```
-git clone https://github.com/hilla10/MyTunes.git
+https://github.com/hilla10/MyTunes.git
 
 ```
